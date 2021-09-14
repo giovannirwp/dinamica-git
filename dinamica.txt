@@ -1,6 +1,5 @@
 5 motivos para você aprender JavaScript!
 ------------------------------------------
-
 O JavaScript é uma linguagem de programação muito poderosa utilizada em todo o mundo!
 
 O uso mais convencional do JavaScript é no contexto do nosso navegador, juntamente com HTML e CSS.

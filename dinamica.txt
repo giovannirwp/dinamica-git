@@ -26,3 +26,5 @@ Motivos para você aprender JavaScript
 #6 Muito legal, aprender Javascript
 
 #7 Saber javascript, e ter muito noção em programação
+
+#8 Saber javascript, ajuda muito

@@ -24,3 +24,5 @@ Motivos para você aprender JavaScript
 #5 Muitas opções de bibliotecas e frameworks que vão maximizar sua produtividade.
 
 #6 Muito legal, aprender Javascript
+
+#7 Saber javascript, e ter muito noção em programação

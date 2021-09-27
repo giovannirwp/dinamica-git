@@ -26,3 +26,5 @@ Motivos para você aprender JavaScript
 #6 Javascript é muito legal
 
 #7 Tem uma comunidade muito colaborativa! 
+
+#8 Linguagem muito popular
